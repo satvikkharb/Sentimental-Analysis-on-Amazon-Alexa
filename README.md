@@ -1,6 +1,6 @@
 # Overview:
 This code conducts sentiment analysis on the Amazon Alexa dataset, aiming to predict whether a given input sentence has a positive or negative sentiment. It involves importing necessary libraries, performing exploratory data analysis (EDA), preprocessing the data, and building classification models.
-![image](https://github.com/satvikkharb/Sentimental-Analysis-on-Amazon-Alexa/assets/78302547/15c48286-55f3-4665-81aa-e9fd2071e2a5)
+
 
 ## 1. Importing Required Libraries:
 
